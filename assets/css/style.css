@@ -134,6 +134,15 @@ button:focus {
   animation: k 0.7s;
   -webkit-animation: k 0.7s;
 }
+.card_links ul li .list_item.tel span {
+  width: 100%;
+}
+.card_links ul li .list_item.tel {
+  padding: 15px 40px;
+}
+.card_links ul li .list_item.tel {
+  font-size: 20px;
+}
 
 @keyframes k {
   from {
