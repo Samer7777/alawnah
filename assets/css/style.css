@@ -117,6 +117,9 @@ button:focus {
   /*Chrome10-25,Safari5.1-6*/
   background: linear-gradient(to left, #1a3f6c, #1a3f6c, #1a3f6c);
 }
+.card_links ul li a span {
+  width: 120px;
+}
 .card_links ul li a img {
   max-width: 30px;
   display: block;
@@ -238,8 +241,5 @@ button:focus {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  .card_links ul li a span {
-    width: 120px;
   }
 }
